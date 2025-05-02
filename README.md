@@ -9,9 +9,12 @@ My core interests include Machine Learning, NLP, Generative AI, and applying AI 
 <br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-kumar-6a0b3a243)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prathamkumar625)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prathamkumars125@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-kumar125/
+)
+[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/prathamkumar625)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrathamKumar125)
+[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamkumars125@gmail.com)
+
 
 <br/>
 
