@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer · GenAI Evaluation & Agentic AI Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=Building+GenAI+Evaluation+Frameworks;Agentic+AI+%7C+LangChain+%2F+LangGraph;RAG+Pipelines+%26+Knowledge+Graph+Systems;Currently+%40+Google+KG+(via+Highspring)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=Building+GenAI+Evaluation+Frameworks;Agentic+AI+%7C+LangChain+%2F+LangGraph;RAG+Pipelines+%26+Knowledge+Graph+Systems;Currently+%40+Highspring+(via+Google)" alt="Typing SVG" />
 
 </div>
 
