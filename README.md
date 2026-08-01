@@ -1,66 +1,119 @@
-# About Me:
-I am a B.Tech. graduate in Artificial Intelligence and Data Science from Guru Gobind Singh Indraprastha University with a CGPA of 8.7. My technical strengths lie in machine learning, data science, natural language processing, and backend development. I have hands-on experience building scalable APIs, integrating LLMs, and deploying AI-powered solutions using modern tools and frameworks.
+<div align="center">
 
-I have Interned at organizations like Haqdarshak, DraftAi, and Verbaflo.AI, where I contributed to impactful projects across backend engineering, NLP pipelines, and data automation. I also actively contribute to open-source communities through programs like GSSoC (as a contributor and mentor) and Hacktoberfest, and was part of the ML Core Team of the Intel oneAPI Students Club at GGSIPU.
+# Hi 👋, I'm Pratham Kumar
 
-My core interests include Machine Learning, NLP, Generative AI, and applying AI to solve meaningful real-world problems. I’m continuously learning, building, and exploring new ways to create impact through technology.
+### AI/ML Engineer · GenAI Evaluation & Agentic AI Systems
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=Building+GenAI+Evaluation+Frameworks;Agentic+AI+%7C+LangChain+%2F+LangGraph;RAG+Pipelines+%26+Knowledge+Graph+Systems;Currently+%40+Google+KG+(via+Highspring)" alt="Typing SVG" />
 
-<br/>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-kumar125/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prathamkumar125)
-[![Email](https://img.shields.io/badge/Email-prathamkumars125@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prathamkumars125@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?logo=huggingface&logoColor=black)](https://huggingface.co/pratham0011)
+</div>
 
 <br/>
 
-# 💻 Tech Stack:
-**Languages & Frameworks:**  
+## 🧭 About Me
+
+I'm an AI/ML engineer working on **GenAI evaluation** and **agentic AI systems**. Currently an Associate Analyst at **Highspring**, embedded onsite with **Google's Knowledge Graph team**, where I design LLM evaluation frameworks and run large-scale data analysis to inform model and product decisions.
+
+- 🔭 Currently building **LLM-as-a-Judge evaluation frameworks**, benchmarking **100K+ GenAI outputs** across 15 quality dimensions
+- 🌱 Deep focus on **Agentic AI** (LangChain/LangGraph), **RAG pipelines**, and **Knowledge Graph** systems
+- 🎓 B.Tech. in Artificial Intelligence and Data Science, GGSIPU (CGPA: 8.59)
+- 💼 Past: Haqdarshak, DraftAi, Verbaflo.AI — backend engineering, RAG, and data automation
+- 🏆 Built a RAG-based legal citation system outperforming GPT-4o by **62.5%**
+- 🤝 Open-source contributor & mentor — GSSoC, Hacktoberfest
+- ⚡ Always exploring new ways to create impact through applied AI
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-kumar125/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/prathamkumar125)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathamkumars125@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/pratham0011)
+
+</div>
+
+<br/>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**Core**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**ML & Data Science:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-%230099CC.svg?style=for-the-badge&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/nltk-0073B7?style=for-the-badge&logoColor=white)
-
-**Databases & Tools:**  
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Agentic & GenAI**
+
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-6E56CF?style=for-the-badge&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white)
+
+**Development & Cloud**
+
+![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
 
 <br/>
 
-# 🧑‍💻 Contribution in Open Source:
+## 🧑‍💻 Open Source
+
+<div align="center">
+
 [![An image of @prathamkumar125's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prathamkumar125)](https://holopin.io/@prathamkumar125)
 
+</div>
+
 <br/>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=PrathamKumar125&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PrathamKumar125&theme=vue-dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamKumar125&theme=vue-dark&hide_border=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PrathamKumar125&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+</div>
+
 ---
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=PrathamKumar125&icon=0&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
